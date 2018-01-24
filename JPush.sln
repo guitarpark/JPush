@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPush.Bindings.iOS", "JPush.Binding.iOS\JPush.Bindings.iOS.csproj", "{B78740E4-D314-4F29-8900-BEE53039060E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPush.Binding.Droid", "JPush.Binding.Droid\JPush.Binding.Droid.csproj", "{A56A77BF-5C00-4A5E-9514-BA2AB0566772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPush.Binding.iOS", "JPush.Binding.iOS\JPush.Binding.iOS.csproj", "{B78740E4-D314-4F29-8900-BEE53039060E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B78740E4-D314-4F29-8900-BEE53039060E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B78740E4-D314-4F29-8900-BEE53039060E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B78740E4-D314-4F29-8900-BEE53039060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B78740E4-D314-4F29-8900-BEE53039060E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A56A77BF-5C00-4A5E-9514-BA2AB0566772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A56A77BF-5C00-4A5E-9514-BA2AB0566772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A56A77BF-5C00-4A5E-9514-BA2AB0566772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A56A77BF-5C00-4A5E-9514-BA2AB0566772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78740E4-D314-4F29-8900-BEE53039060E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78740E4-D314-4F29-8900-BEE53039060E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78740E4-D314-4F29-8900-BEE53039060E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78740E4-D314-4F29-8900-BEE53039060E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
