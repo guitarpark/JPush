@@ -1,6 +1,0 @@
-﻿<metadata>
-  <attr path="/api/package[@name='cn.jpush.android.api']/class[@name='InstrumentedActivity']/method[@name='onStart' and count(parameter)=0]" name="managedName">onStartNew</attr>
-  <attr path="/api/package[@name='cn.jpush.android.api']/class[@name='InstrumentedListActivity']/method[@name='onStart' and count(parameter)=0]" name="managedName">onStartNew</attr>
-  <attr path="/api/package[@name='cn.jpush.android.api']/class[@name='InstrumentedActivity']/method[@name='onStop' and count(parameter)=0]" name="managedName">onStopNew</attr>
-  <attr path="/api/package[@name='cn.jpush.android.api']/class[@name='InstrumentedListActivity']/method[@name='onStop' and count(parameter)=0]" name="managedName">onStopNew</attr>
-</metadata>
